@@ -1,0 +1,90 @@
+body {
+    background-color: rgba(227, 245, 252, 1);
+    text-align: center;
+    font-family: Helvetica;
+}
+
+h1 {
+    margin-bottom: 30px;
+    margin-top: 28px;
+    font-weight: bold; 
+}
+
+#form-box {
+    background-color: rgba(252, 253, 253, 1);
+    padding: 10px;
+    padding-top: 20px;
+    margin: 0px 200px 100px 200px;
+    border-radius: 30px;
+}
+
+.label {
+    display: inline-block;
+    text-align: right;
+    vertical-align: top;
+    width: 49%;
+    padding: 10px;
+    width: 40%;
+}
+
+.righttab {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+    width: 49%
+}
+
+ul {
+    list-style-type: none;
+    padding-top: 10px;
+}
+
+.input-field {
+    margin: 10px;
+    padding: 5px;
+    height: 30px;
+    width: 280px;
+    border-radius: 2px;
+}
+
+#dropdown {
+    margin: 10px;
+    padding: 5px;
+    height: 30px; 
+    width: 280px; 
+    border-radius: 2px;
+}
+
+.radio {
+    display: block;
+    position: relative;
+    margin-left: 10px;
+    left: -40px;
+    padding-bottom: 5px;
+}
+
+.checkbox {
+    display: block;
+    position: relative;
+    margin-left: 10px;
+    left: -40px;
+    padding-bottom: 5px;
+}
+
+#submit {
+    margin: 30px;
+    padding: 10px;
+    background-color: rgba(161, 193, 206, 1);
+    border: 0px solid; 
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    width: 100px; 
+    height: 50px;
+}
+
+.UserRatings, input[type="checkbox"] {
+    float: middle;
+    margin-right: 5px;
+}
+
